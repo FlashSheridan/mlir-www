@@ -1,0 +1,5 @@
+<map id="mlir::StructBuilder" name="mlir::StructBuilder">
+<area shape="rect" id="node2" href="$classmlir_1_1ComplexStructBuilder.html" title="mlir::ComplexStructBuilder" alt="" coords="5,80,204,107"/>
+<area shape="rect" id="node3" href="$classmlir_1_1MemRefDescriptor.html" title="Helper class to produce LLVM dialect operations extracting or inserting elements of a MemRef descript..." alt="" coords="229,80,405,107"/>
+<area shape="rect" id="node4" href="$classmlir_1_1UnrankedMemRefDescriptor.html" title="mlir::UnrankedMemRefDescriptor" alt="" coords="429,80,668,107"/>
+</map>

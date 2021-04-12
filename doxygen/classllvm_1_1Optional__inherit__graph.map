@@ -1,0 +1,24 @@
+<map id="llvm::Optional&lt; T &gt;" name="llvm::Optional&lt; T &gt;">
+<area shape="rect" id="node2" href="$classmlir_1_1FailureOr.html" title="This class provides support for representing a failure result, or a valid value of type T..." alt="" coords="476,24,628,51"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; int64_t \&gt;" alt="" coords="457,75,647,102"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; mlir\l::linalg::LinalgLoopDistribution\lOptions \&gt;" alt="" coords="442,126,662,182"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; DynamicLegality\lCallbackFn \&gt;" alt="" coords="433,206,671,248"/>
+<area shape="rect" id="node6" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; PassDisplay\lMode \&gt;" alt="" coords="449,272,655,313"/>
+<area shape="rect" id="node7" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; std\l::string \&gt;" alt="" coords="477,337,627,378"/>
+<area shape="rect" id="node8" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; StringRef \&gt;" alt="" coords="451,403,653,430"/>
+<area shape="rect" id="node9" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; mlir\l::Diagnostic \&gt;" alt="" coords="475,454,629,496"/>
+<area shape="rect" id="node10" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; mlir\l::detail::PassExecutionState \&gt;" alt="" coords="443,520,661,561"/>
+<area shape="rect" id="node11" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; llvm\l::SmallBitVector \&gt;" alt="" coords="473,585,631,626"/>
+<area shape="rect" id="node12" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; llvm\l::DenseSet\&lt; unsigned \&gt; \&gt;" alt="" coords="454,650,650,692"/>
+<area shape="rect" id="node13" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; int \&gt;" alt="" coords="471,716,633,743"/>
+<area shape="rect" id="node14" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; CopyCallbackFn \&gt;" alt="" coords="428,767,676,794"/>
+<area shape="rect" id="node15" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; mlir\l::tblgen::TypeConstraint \&gt;" alt="" coords="457,818,647,860"/>
+<area shape="rect" id="node16" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; AllocBuffer\lCallbackFn \&gt;" alt="" coords="452,884,652,925"/>
+<area shape="rect" id="node17" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; unsigned \&gt;" alt="" coords="451,950,653,976"/>
+<area shape="rect" id="node18" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; mlir\l::python::PyObjectRef \&gt;" alt="" coords="463,1001,641,1042"/>
+<area shape="rect" id="node19" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; DeallocBuffer\lCallbackFn \&gt;" alt="" coords="443,1066,661,1108"/>
+<area shape="rect" id="node20" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; mlir\l::ParseResult \&gt;" alt="" coords="475,1132,629,1173"/>
+<area shape="rect" id="node21" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; spirv\l::FuncOp \&gt;" alt="" coords="471,1197,633,1238"/>
+<area shape="rect" id="node22" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; mlir\l::spirv::DebugLine \&gt;" alt="" coords="475,1262,629,1304"/>
+<area shape="rect" id="node23" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; mlir\l::Identifier \&gt;" alt="" coords="475,1328,629,1369"/>
+</map>

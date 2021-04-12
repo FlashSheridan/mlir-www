@@ -1,0 +1,4 @@
+<map id="mlir::BlockOperand" name="mlir::BlockOperand">
+<area shape="rect" id="node2" href="$classmlir_1_1IROperand.html" title="mlir::IROperand\&lt; BlockOperand,\l Block *\&gt;" alt="" coords="5,109,240,151"/>
+<area shape="rect" id="node3" href="$classmlir_1_1IROperand.html" title="A reference to a value, suitable for use as an operand of an operation. " alt="" coords="27,5,218,47"/>
+</map>

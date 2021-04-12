@@ -1,0 +1,4 @@
+<map id="mlir::detail::DominanceInfoBase&lt; IsPostDom &gt;" name="mlir::detail::DominanceInfoBase&lt; IsPostDom &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; mlir\l::Region *, std::unique\l_ptr\&lt; base \&gt; \&gt;" alt="" coords="27,124,195,180"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; KeyT,\l ValueT, KeyInfoT, BucketT \&gt;" alt="" coords="5,5,216,47"/>
+</map>

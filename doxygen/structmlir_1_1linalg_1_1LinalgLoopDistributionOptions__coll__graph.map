@@ -1,0 +1,4 @@
+<map id="mlir::linalg::LinalgLoopDistributionOptions" name="mlir::linalg::LinalgLoopDistributionOptions">
+<area shape="rect" id="node2" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l DistributionMethod, 0 \&gt;" alt="" coords="406,5,587,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l T, N \&gt;" alt="" coords="5,5,153,47"/>
+</map>

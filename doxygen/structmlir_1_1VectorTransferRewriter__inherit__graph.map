@@ -1,0 +1,4 @@
+<map id="mlir::VectorTransferRewriter&lt; TransferOpTy &gt;" name="mlir::VectorTransferRewriter&lt; TransferOpTy &gt;">
+<area shape="rect" id="node2" href="$classmlir_1_1RewritePattern.html" title="RewritePattern is the common base class for all DAG to DAG replacements. " alt="" coords="31,80,182,107"/>
+<area shape="rect" id="node3" href="$classmlir_1_1Pattern.html" title="This class contains all of the data related to a pattern, but does not contain any methods or logic f..." alt="" coords="55,5,158,32"/>
+</map>

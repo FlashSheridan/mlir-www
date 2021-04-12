@@ -1,0 +1,6 @@
+<map id="include/mlir/Interfaces/FoldInterfaces.h" name="include/mlir/Interfaces/FoldInterfaces.h">
+<area shape="rect" id="node2" href="$DialectInterface_8h.html" title="mlir/IR/DialectInterface.h" alt="" coords="325,95,511,121"/>
+<area shape="rect" id="node10" href="$LogicalResult_8h.html" title="mlir/Support/LogicalResult.h" alt="" coords="535,95,739,121"/>
+<area shape="rect" id="node3" href="$TypeID_8h.html" title="mlir/Support/TypeID.h" alt="" coords="202,169,365,196"/>
+<area shape="rect" id="node4" href="$LLVM_8h.html" title="mlir/Support/LLVM.h" alt="" coords="483,251,633,278"/>
+</map>

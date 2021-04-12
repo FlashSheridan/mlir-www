@@ -1,0 +1,26 @@
+<map id="lib/Target/LLVMIR/ModuleTranslation.cpp" name="lib/Target/LLVMIR/ModuleTranslation.cpp">
+<area shape="rect" id="node2" href="$ModuleTranslation_8h.html" title="mlir/Target/LLVMIR\l/ModuleTranslation.h" alt="" coords="560,95,716,136"/>
+<area shape="rect" id="node7" href="$LLVM_8h.html" title="mlir/Support/LLVM.h" alt="" coords="1105,281,1256,307"/>
+<area shape="rect" id="node9" href="$LLVMTranslationInterface_8h.html" title="mlir/Target/LLVMIR\l/LLVMTranslationInterface.h" alt="" coords="173,184,373,225"/>
+<area shape="rect" id="node10" href="$Attributes_8h.html" title="mlir/IR/Attributes.h" alt="" coords="1104,363,1249,389"/>
+<area shape="rect" id="node11" href="$TypeTranslation_8h.html" title="mlir/Target/LLVMIR\l/TypeTranslation.h" alt="" coords="5,184,148,225"/>
+<area shape="rect" id="node14" href="$DebugTranslation_8h.html" title="DebugTranslation.h" alt="" coords="1489,102,1635,129"/>
+<area shape="rect" id="node19" href="$LLVMDialect_8h.html" title="mlir/Dialect/LLVMIR\l/LLVMDialect.h" alt="" coords="2617,95,2765,136"/>
+<area shape="rect" id="node21" href="$BuiltinOps_8h.html" title="mlir/IR/BuiltinOps.h" alt="" coords="2617,191,2765,218"/>
+<area shape="rect" id="node26" href="$IR_2BuiltinTypes_8h.html" title="mlir/IR/BuiltinTypes.h" alt="" coords="1886,281,2046,307"/>
+<area shape="rect" id="node36" href="$LegalizeForExport_8h.html" title="mlir/Dialect/LLVMIR\l/Transforms/LegalizeForExport.h" alt="" coords="2892,95,3123,136"/>
+<area shape="rect" id="node37" href="$OpenMPDialect_8h.html" title="mlir/Dialect/OpenMP\l/OpenMPDialect.h" alt="" coords="2438,184,2593,225"/>
+<area shape="rect" id="node38" href="$RegionGraphTraits_8h.html" title="mlir/IR/RegionGraphTraits.h" alt="" coords="3197,102,3396,129"/>
+<area shape="rect" id="node3" href="$Operation_8h.html" title="mlir/IR/Operation.h" alt="" coords="2135,437,2280,464"/>
+<area shape="rect" id="node4" href="$Value_8h.html" title="mlir/IR/Value.h" alt="" coords="1041,191,1158,218"/>
+<area shape="rect" id="node8" href="$Export_8h.html" title="mlir/Target/LLVMIR\l/Export.h" alt="" coords="448,184,591,225"/>
+<area shape="rect" id="node5" href="$Types_8h.html" title="mlir/IR/Types.h" alt="" coords="1907,363,2025,389"/>
+<area shape="rect" id="node6" href="$TypeSupport_8h.html" title="mlir/IR/TypeSupport.h" alt="" coords="1827,437,1988,464"/>
+<area shape="rect" id="node15" href="$Location_8h.html" title="mlir/IR/Location.h" alt="" coords="1281,281,1417,307"/>
+<area shape="rect" id="node20" href="$LLVMTypes_8h.html" title="mlir/Dialect/LLVMIR\l/LLVMTypes.h" alt="" coords="2227,273,2375,315"/>
+<area shape="rect" id="node22" href="$SideEffectInterfaces_8h.html" title="mlir/Interfaces/SideEffect\lInterfaces.h" alt="" coords="2501,273,2687,315"/>
+<area shape="rect" id="node23" href="$OpDefinition_8h.html" title="mlir/IR/OpDefinition.h" alt="" coords="2482,363,2645,389"/>
+<area shape="rect" id="node24" href="$IR_2Dialect_8h.html" title="mlir/IR/Dialect.h" alt="" coords="2500,437,2627,464"/>
+<area shape="rect" id="node25" href="$OpImplementation_8h.html" title="mlir/IR/OpImplementation.h" alt="" coords="1937,191,2139,218"/>
+<area shape="rect" id="node27" href="$ControlFlowInterfaces_8h.html" title="mlir/Interfaces/ControlFlow\lInterfaces.h" alt="" coords="2712,273,2911,315"/>
+</map>

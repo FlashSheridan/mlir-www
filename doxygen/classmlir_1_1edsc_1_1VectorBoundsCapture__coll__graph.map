@@ -1,0 +1,5 @@
+<map id="mlir::edsc::VectorBoundsCapture" name="mlir::edsc::VectorBoundsCapture">
+<area shape="rect" id="node2" href="$classmlir_1_1edsc_1_1BoundsCapture.html" title="Base class for MemRefBoundsCapture and VectorBoundsCapture. " alt="" coords="111,228,304,255"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l mlir::Value, 8 \&gt;" alt="" coords="5,109,153,151"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l T, N \&gt;" alt="" coords="5,5,153,47"/>
+</map>

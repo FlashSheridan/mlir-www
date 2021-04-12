@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classmlir_1_1tblgen_1_1OpTrait.html" title="mlir::tblgen::OpTrait" alt="" coords="5,107,156,134"/>
+<area shape="rect" id="node2" href="$classmlir_1_1tblgen_1_1InterfaceOpTrait.html" title="mlir::tblgen::InterfaceOp\lTrait" alt="" coords="211,5,392,47"/>
+<area shape="rect" id="node4" href="$classmlir_1_1tblgen_1_1InternalOpTrait.html" title="mlir::tblgen::InternalOp\lTrait" alt="" coords="215,71,388,112"/>
+<area shape="rect" id="node5" href="$classmlir_1_1tblgen_1_1NativeOpTrait.html" title="mlir::tblgen::NativeOpTrait" alt="" coords="204,137,399,163"/>
+<area shape="rect" id="node6" href="$classmlir_1_1tblgen_1_1PredOpTrait.html" title="mlir::tblgen::PredOpTrait" alt="" coords="211,187,391,214"/>
+<area shape="rect" id="node3" href="$classmlir_1_1tblgen_1_1SideEffectTrait.html" title="mlir::tblgen::SideEffect\lTrait" alt="" coords="447,5,617,47"/>
+</map>

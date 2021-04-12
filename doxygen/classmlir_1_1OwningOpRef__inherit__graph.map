@@ -1,0 +1,6 @@
+<map id="mlir::OwningOpRef&lt; OpTy &gt;" name="mlir::OwningOpRef&lt; OpTy &gt;">
+<area shape="rect" id="node2" href="$classmlir_1_1OwningOpRef.html" title="mlir::OwningOpRef\&lt;\l spirv::ModuleOp \&gt;" alt="" coords="67,109,222,151"/>
+<area shape="rect" id="node4" href="$classmlir_1_1OwningOpRef.html" title="mlir::OwningOpRef\&lt;\l ModuleOp \&gt;" alt="" coords="274,109,429,151"/>
+<area shape="rect" id="node3" href="$classmlir_1_1spirv_1_1OwningSPIRVModuleRef.html" title="This class acts as an owning reference to a SPIR&#45;V module, and will automatically destroy the held mo..." alt="" coords="5,200,255,227"/>
+<area shape="rect" id="node5" href="$classmlir_1_1OwningModuleRef.html" title="This class acts as an owning reference to a module, and will automatically destroy the held module on..." alt="" coords="279,200,453,227"/>
+</map>

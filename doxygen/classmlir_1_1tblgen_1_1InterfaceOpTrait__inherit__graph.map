@@ -1,0 +1,4 @@
+<map id="mlir::tblgen::InterfaceOpTrait" name="mlir::tblgen::InterfaceOpTrait">
+<area shape="rect" id="node3" href="$classmlir_1_1tblgen_1_1SideEffectTrait.html" title="mlir::tblgen::SideEffect\lTrait" alt="" coords="11,169,181,211"/>
+<area shape="rect" id="node2" href="$classmlir_1_1tblgen_1_1OpTrait.html" title="mlir::tblgen::OpTrait" alt="" coords="21,5,171,32"/>
+</map>

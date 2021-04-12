@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classmlir_1_1edsc_1_1BoundsCapture.html" title="Base class for MemRefBoundsCapture and VectorBoundsCapture. " alt="" coords="5,46,199,73"/>
+<area shape="rect" id="node2" href="$classmlir_1_1edsc_1_1MemRefBoundsCapture.html" title="A MemRefBoundsCapture represents the information required to step through a MemRef. " alt="" coords="247,5,441,47"/>
+<area shape="rect" id="node3" href="$classmlir_1_1edsc_1_1VectorBoundsCapture.html" title="A VectorBoundsCapture represents the information required to step through a Vector accessing each sca..." alt="" coords="253,71,435,112"/>
+</map>

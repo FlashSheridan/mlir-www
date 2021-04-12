@@ -1,0 +1,11 @@
+<map id="include/mlir/Target/LLVMIR/ModuleTranslation.h" name="include/mlir/Target/LLVMIR/ModuleTranslation.h">
+<area shape="rect" id="node2" href="$AMXToLLVMIRTranslation_8cpp.html" title="lib/Target/LLVMIR/Dialect\l/AMX/AMXToLLVMIRTranslation.cpp" alt="" coords="5,95,251,136"/>
+<area shape="rect" id="node3" href="$ArmNeonToLLVMIRTranslation_8cpp.html" title="lib/Target/LLVMIR/Dialect\l/ArmNeon/ArmNeonToLLVMIRTranslation.cpp" alt="" coords="275,95,584,136"/>
+<area shape="rect" id="node4" href="$AVX512ToLLVMIRTranslation_8cpp.html" title="lib/Target/LLVMIR/Dialect\l/AVX512/AVX512ToLLVMIRTranslation.cpp" alt="" coords="609,95,895,136"/>
+<area shape="rect" id="node5" href="$LLVMArmSVEToLLVMIRTranslation_8cpp.html" title="lib/Target/LLVMIR/Dialect\l/LLVMArmSVE/LLVMArmSVEToLLVMIRTranslation.cpp" alt="" coords="920,95,1277,136"/>
+<area shape="rect" id="node6" href="$LLVMToLLVMIRTranslation_8cpp.html" title="lib/Target/LLVMIR/Dialect\l/LLVMIR/LLVMToLLVMIRTranslation.cpp" alt="" coords="1301,95,1568,136"/>
+<area shape="rect" id="node7" href="$NVVMToLLVMIRTranslation_8cpp.html" title="lib/Target/LLVMIR/Dialect\l/NVVM/NVVMToLLVMIRTranslation.cpp" alt="" coords="1593,95,1858,136"/>
+<area shape="rect" id="node8" href="$OpenMPToLLVMIRTranslation_8cpp.html" title="lib/Target/LLVMIR/Dialect\l/OpenMP/OpenMPToLLVMIRTranslation.cpp" alt="" coords="1883,95,2176,136"/>
+<area shape="rect" id="node9" href="$ROCDLToLLVMIRTranslation_8cpp.html" title="lib/Target/LLVMIR/Dialect\l/ROCDL/ROCDLToLLVMIRTranslation.cpp" alt="" coords="2200,95,2475,136"/>
+<area shape="rect" id="node10" href="$ModuleTranslation_8cpp.html" title="lib/Target/LLVMIR/Module\lTranslation.cpp" alt="" coords="2499,95,2682,136"/>
+</map>

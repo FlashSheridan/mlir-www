@@ -1,0 +1,4 @@
+<map id="mlir::edsc::BoundsCapture" name="mlir::edsc::BoundsCapture">
+<area shape="rect" id="node2" href="$classmlir_1_1edsc_1_1MemRefBoundsCapture.html" title="A MemRefBoundsCapture represents the information required to step through a MemRef. " alt="" coords="5,80,200,121"/>
+<area shape="rect" id="node3" href="$classmlir_1_1edsc_1_1VectorBoundsCapture.html" title="A VectorBoundsCapture represents the information required to step through a Vector accessing each sca..." alt="" coords="225,80,407,121"/>
+</map>

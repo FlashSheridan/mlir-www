@@ -1,0 +1,9 @@
+<map id="include/mlir/Dialect/SPIRV/IR/SPIRVModule.h" name="include/mlir/Dialect/SPIRV/IR/SPIRVModule.h">
+<area shape="rect" id="node2" href="$ModuleCombiner_8h.html" title="include/mlir/Dialect\l/SPIRV/Linking/ModuleCombiner.h" alt="" coords="159,95,397,136"/>
+<area shape="rect" id="node4" href="$Deserializer_8h.html" title="lib/Target/SPIRV/Deserialization\l/Deserializer.h" alt="" coords="555,95,780,136"/>
+<area shape="rect" id="node7" href="$Deserializer_8cpp.html" title="lib/Target/SPIRV/Deserialization\l/Deserializer.cpp" alt="" coords="804,184,1029,225"/>
+<area shape="rect" id="node8" href="$TranslateRegistration_8cpp.html" title="lib/Target/SPIRV/Translate\lRegistration.cpp" alt="" coords="854,95,1041,136"/>
+<area shape="rect" id="node3" href="$ModuleCombiner_8cpp.html" title="lib/Dialect/SPIRV/Linking\l/ModuleCombiner/ModuleCombiner.cpp" alt="" coords="5,184,281,225"/>
+<area shape="rect" id="node5" href="$Deserialization_8cpp.html" title="lib/Target/SPIRV/Deserialization\l/Deserialization.cpp" alt="" coords="305,184,531,225"/>
+<area shape="rect" id="node6" href="$DeserializeOps_8cpp.html" title="lib/Target/SPIRV/Deserialization\l/DeserializeOps.cpp" alt="" coords="555,184,780,225"/>
+</map>

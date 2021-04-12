@@ -1,0 +1,18 @@
+<map id="include/mlir&#45;c/Registration.h" name="include/mlir&#45;c/Registration.h">
+<area shape="rect" id="node2" href="$CAPI_2Registration_8h.html" title="include/mlir/CAPI/Registration.h" alt="" coords="963,87,1189,114"/>
+<area shape="rect" id="node9" href="$Linalg_8h.html" title="include/mlir&#45;c/Dialect\l/Linalg.h" alt="" coords="267,80,427,121"/>
+<area shape="rect" id="node12" href="$c_2Dialect_2SCF_8h.html" title="include/mlir&#45;c/Dialect\l/SCF.h" alt="" coords="583,80,743,121"/>
+<area shape="rect" id="node13" href="$c_2Dialect_2Shape_8h.html" title="include/mlir&#45;c/Dialect\l/Shape.h" alt="" coords="779,80,939,121"/>
+<area shape="rect" id="node14" href="$Standard_8h.html" title="include/mlir&#45;c/Dialect\l/Standard.h" alt="" coords="1213,80,1373,121"/>
+<area shape="rect" id="node15" href="$c_2Dialect_2Tensor_8h.html" title="include/mlir&#45;c/Dialect\l/Tensor.h" alt="" coords="1397,80,1557,121"/>
+<area shape="rect" id="node16" href="$IRCore_8cpp.html" title="lib/Bindings/Python\l/IRCore.cpp" alt="" coords="1581,80,1728,121"/>
+<area shape="rect" id="node17" href="$Registration_8cpp.html" title="lib/CAPI/Registration\l/Registration.cpp" alt="" coords="1752,80,1907,121"/>
+<area shape="rect" id="node3" href="$Linalg_8cpp.html" title="lib/CAPI/Dialect/Linalg.cpp" alt="" coords="347,177,539,203"/>
+<area shape="rect" id="node4" href="$CAPI_2Dialect_2SCF_8cpp.html" title="lib/CAPI/Dialect/SCF.cpp" alt="" coords="563,177,738,203"/>
+<area shape="rect" id="node5" href="$CAPI_2Dialect_2Shape_8cpp.html" title="lib/CAPI/Dialect/Shape.cpp" alt="" coords="762,177,955,203"/>
+<area shape="rect" id="node6" href="$Standard_8cpp.html" title="lib/CAPI/Dialect/Standard.cpp" alt="" coords="1215,177,1425,203"/>
+<area shape="rect" id="node7" href="$Tensor_8cpp.html" title="lib/CAPI/Dialect/Tensor.cpp" alt="" coords="1449,177,1644,203"/>
+<area shape="rect" id="node8" href="$DialectHandle_8cpp.html" title="lib/CAPI/IR/DialectHandle.cpp" alt="" coords="979,177,1191,203"/>
+<area shape="rect" id="node10" href="$DialectLinalg_8cpp.html" title="lib/Bindings/Python\l/DialectLinalg.cpp" alt="" coords="5,169,152,211"/>
+<area shape="rect" id="node11" href="$Bindings_2Python_2LinalgPasses_8cpp.html" title="lib/Bindings/Python\l/LinalgPasses.cpp" alt="" coords="176,169,323,211"/>
+</map>

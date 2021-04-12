@@ -1,0 +1,5 @@
+<map id="include/mlir/Dialect/Quant/Passes.h" name="include/mlir/Dialect/Quant/Passes.h">
+<area shape="rect" id="node2" href="$InitAllPasses_8h.html" title="include/mlir/InitAllPasses.h" alt="" coords="5,102,203,129"/>
+<area shape="rect" id="node3" href="$ConvertConst_8cpp.html" title="lib/Dialect/Quant/Transforms\l/ConvertConst.cpp" alt="" coords="227,95,434,136"/>
+<area shape="rect" id="node4" href="$ConvertSimQuant_8cpp.html" title="lib/Dialect/Quant/Transforms\l/ConvertSimQuant.cpp" alt="" coords="458,95,665,136"/>
+</map>

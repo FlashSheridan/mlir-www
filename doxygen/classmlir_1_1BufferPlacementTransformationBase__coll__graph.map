@@ -1,0 +1,5 @@
+<map id="mlir::BufferPlacementTransformationBase" name="mlir::BufferPlacementTransformationBase">
+<area shape="rect" id="node2" href="$classmlir_1_1BufferPlacementAllocs.html" title="A simple analysis that detects allocation operations. " alt="" coords="5,5,208,32"/>
+<area shape="rect" id="node3" href="$classmlir_1_1Liveness.html" title="Represents an analysis for computing liveness information from a given top&#45;level operation. " alt="" coords="233,5,346,32"/>
+<area shape="rect" id="node4" href="$classmlir_1_1BufferAliasAnalysis.html" title="A straight&#45;forward alias analysis which ensures that all aliases of all values will be determined..." alt="" coords="370,5,553,32"/>
+</map>

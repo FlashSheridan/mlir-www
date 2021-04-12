@@ -1,0 +1,4 @@
+<map id="mlir::spirv::OwningSPIRVModuleRef" name="mlir::spirv::OwningSPIRVModuleRef">
+<area shape="rect" id="node2" href="$classmlir_1_1OwningOpRef.html" title="mlir::OwningOpRef\&lt;\l spirv::ModuleOp \&gt;" alt="" coords="53,109,207,151"/>
+<area shape="rect" id="node3" href="$classmlir_1_1OwningOpRef.html" title="This class acts as an owning reference to an op, and will automatically destroy the held op on destru..." alt="" coords="53,5,207,47"/>
+</map>

@@ -1,0 +1,32 @@
+<map id="lib/Transforms/LoopFusion.cpp" name="lib/Transforms/LoopFusion.cpp">
+<area shape="rect" id="node3" href="$AffineAnalysis_8h.html" title="mlir/Analysis/AffineAnalysis.h" alt="" coords="686,87,902,114"/>
+<area shape="rect" id="node9" href="$AffineStructures_8h.html" title="mlir/Analysis/AffineStructures.h" alt="" coords="1149,177,1375,203"/>
+<area shape="rect" id="node13" href="$IR_2AffineExpr_8h.html" title="mlir/IR/AffineExpr.h" alt="" coords="1541,355,1687,382"/>
+<area shape="rect" id="node18" href="$LoopAnalysis_8h.html" title="mlir/Analysis/LoopAnalysis.h" alt="" coords="980,266,1189,293"/>
+<area shape="rect" id="node19" href="$Analysis_2Utils_8h.html" title="mlir/Analysis/Utils.h" alt="" coords="495,87,648,114"/>
+<area shape="rect" id="node20" href="$IR_2AffineMap_8h.html" title="mlir/IR/AffineMap.h" alt="" coords="1775,266,1922,293"/>
+<area shape="rect" id="node25" href="$AffineOps_8h.html" title="mlir/Dialect/Affine\l/IR/AffineOps.h" alt="" coords="2156,80,2296,121"/>
+<area shape="rect" id="node29" href="$IR_2Builders_8h.html" title="mlir/IR/Builders.h" alt="" coords="2879,355,3013,382"/>
+<area shape="rect" id="node37" href="$MemRef_8h.html" title="mlir/Dialect/MemRef\l/IR/MemRef.h" alt="" coords="3499,169,3654,211"/>
+<area shape="rect" id="node41" href="$LoopFusionUtils_8h.html" title="mlir/Transforms/LoopFusion\lUtils.h" alt="" coords="926,80,1126,121"/>
+<area shape="rect" id="node43" href="$LoopUtils_8h.html" title="mlir/Transforms/LoopUtils.h" alt="" coords="132,87,333,114"/>
+<area shape="rect" id="node44" href="$Transforms_2Passes_8h.html" title="mlir/Transforms/Passes.h" alt="" coords="2371,87,2555,114"/>
+<area shape="rect" id="node45" href="$Transforms_2Utils_8h.html" title="mlir/Transforms/Utils.h" alt="" coords="1661,87,1831,114"/>
+<area shape="rect" id="node4" href="$Value_8h.html" title="mlir/IR/Value.h" alt="" coords="878,177,995,203"/>
+<area shape="rect" id="node5" href="$LLVM_8h.html" title="mlir/Support/LLVM.h" alt="" coords="892,437,1043,464"/>
+<area shape="rect" id="node10" href="$Matrix_8h.html" title="mlir/Analysis/Presburger\l/Matrix.h" alt="" coords="1214,259,1395,300"/>
+<area shape="rect" id="node15" href="$OpDefinition_8h.html" title="mlir/IR/OpDefinition.h" alt="" coords="2377,437,2539,464"/>
+<area shape="rect" id="node17" href="$LogicalResult_8h.html" title="mlir/Support/LogicalResult.h" alt="" coords="579,266,783,293"/>
+<area shape="rect" id="node16" href="$IR_2Dialect_8h.html" title="mlir/IR/Dialect.h" alt="" coords="3257,512,3384,539"/>
+<area shape="rect" id="node22" href="$Block_8h.html" title="mlir/IR/Block.h" alt="" coords="174,177,291,203"/>
+<area shape="rect" id="node23" href="$Location_8h.html" title="mlir/IR/Location.h" alt="" coords="366,177,502,203"/>
+<area shape="rect" id="node26" href="$AffineMemoryOpInterfaces_8h.html" title="mlir/Dialect/Affine\l/IR/AffineMemoryOpInterfaces.h" alt="" coords="2263,169,2493,211"/>
+<area shape="rect" id="node27" href="$IR_2BuiltinTypes_8h.html" title="mlir/IR/BuiltinTypes.h" alt="" coords="2626,355,2786,382"/>
+<area shape="rect" id="node28" href="$Ops_8h.html" title="mlir/Dialect/StandardOps\l/IR/Ops.h" alt="" coords="2568,169,2753,211"/>
+<area shape="rect" id="node32" href="$SideEffectInterfaces_8h.html" title="mlir/Interfaces/SideEffect\lInterfaces.h" alt="" coords="2365,259,2551,300"/>
+<area shape="rect" id="node34" href="$LoopLikeInterface_8h.html" title="mlir/Interfaces/LoopLike\lInterface.h" alt="" coords="2061,348,2239,389"/>
+<area shape="rect" id="node30" href="$CallInterfaces_8h.html" title="mlir/Interfaces/CallInterfaces.h" alt="" coords="3235,266,3457,293"/>
+<area shape="rect" id="node31" href="$CastInterfaces_8h.html" title="mlir/Interfaces/CastInterfaces.h" alt="" coords="2983,266,3210,293"/>
+<area shape="rect" id="node33" href="$ViewLikeInterface_8h.html" title="mlir/Interfaces/ViewLike\lInterface.h" alt="" coords="2728,259,2908,300"/>
+<area shape="rect" id="node38" href="$CopyOpInterface_8h.html" title="mlir/Interfaces/CopyOpInterface.h" alt="" coords="3267,355,3510,382"/>
+</map>

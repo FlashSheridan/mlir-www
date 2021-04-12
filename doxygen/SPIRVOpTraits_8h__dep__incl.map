@@ -1,0 +1,36 @@
+<map id="include/mlir/Dialect/SPIRV/IR/SPIRVOpTraits.h" name="include/mlir/Dialect/SPIRV/IR/SPIRVOpTraits.h">
+<area shape="rect" id="node2" href="$SPIRVOps_8h.html" title="include/mlir/Dialect\l/SPIRV/IR/SPIRVOps.h" alt="" coords="3068,95,3227,136"/>
+<area shape="rect" id="node27" href="$SPIRVOps_8cpp.html" title="lib/Dialect/SPIRV/IR\l/SPIRVOps.cpp" alt="" coords="5733,191,5879,233"/>
+<area shape="rect" id="node3" href="$SPIRVModule_8h.html" title="include/mlir/Dialect\l/SPIRV/IR/SPIRVModule.h" alt="" coords="635,191,815,233"/>
+<area shape="rect" id="node5" href="$ModuleCombiner_8cpp.html" title="lib/Dialect/SPIRV/Linking\l/ModuleCombiner/ModuleCombiner.cpp" alt="" coords="3155,377,3431,419"/>
+<area shape="rect" id="node6" href="$Deserializer_8h.html" title="lib/Target/SPIRV/Deserialization\l/Deserializer.h" alt="" coords="255,288,480,329"/>
+<area shape="rect" id="node8" href="$DeserializeOps_8cpp.html" title="lib/Target/SPIRV/Deserialization\l/DeserializeOps.cpp" alt="" coords="5,377,231,419"/>
+<area shape="rect" id="node9" href="$Deserializer_8cpp.html" title="lib/Target/SPIRV/Deserialization\l/Deserializer.cpp" alt="" coords="504,377,729,419"/>
+<area shape="rect" id="node10" href="$TranslateRegistration_8cpp.html" title="lib/Target/SPIRV/Translate\lRegistration.cpp" alt="" coords="869,288,1055,329"/>
+<area shape="rect" id="node11" href="$SPIRVBinaryUtils_8h.html" title="include/mlir/Target\l/SPIRV/SPIRVBinaryUtils.h" alt="" coords="1000,191,1188,233"/>
+<area shape="rect" id="node15" href="$GPUToSPIRV_8cpp.html" title="lib/Conversion/GPUToSPIRV\l/GPUToSPIRV.cpp" alt="" coords="1445,191,1644,233"/>
+<area shape="rect" id="node16" href="$GPUToSPIRVPass_8cpp.html" title="lib/Conversion/GPUToSPIRV\l/GPUToSPIRVPass.cpp" alt="" coords="1668,191,1867,233"/>
+<area shape="rect" id="node17" href="$ConvertGPULaunchFuncToVulkanLaunchFunc_8cpp.html" title="lib/Conversion/GPUToVulkan\l/ConvertGPULaunchFuncToVulkanLaunch\lFunc.cpp" alt="" coords="1891,184,2175,240"/>
+<area shape="rect" id="node18" href="$LinalgToSPIRV_8cpp.html" title="lib/Conversion/LinalgToSPIRV\l/LinalgToSPIRV.cpp" alt="" coords="2199,191,2408,233"/>
+<area shape="rect" id="node19" href="$SCFToSPIRV_8cpp.html" title="lib/Conversion/SCFToSPIRV\l/SCFToSPIRV.cpp" alt="" coords="2433,191,2627,233"/>
+<area shape="rect" id="node20" href="$ConvertLaunchFuncToLLVMCalls_8cpp.html" title="lib/Conversion/SPIRVToLLVM\l/ConvertLaunchFuncToLLVMCalls.cpp" alt="" coords="2651,191,2910,233"/>
+<area shape="rect" id="node21" href="$SPIRVToLLVM_8cpp.html" title="lib/Conversion/SPIRVToLLVM\l/SPIRVToLLVM.cpp" alt="" coords="2934,191,3137,233"/>
+<area shape="rect" id="node22" href="$StandardToSPIRV_8cpp.html" title="lib/Conversion/StandardTo\lSPIRV/StandardToSPIRV.cpp" alt="" coords="3161,191,3358,233"/>
+<area shape="rect" id="node23" href="$VectorToSPIRV_8cpp.html" title="lib/Conversion/VectorToSPIRV\l/VectorToSPIRV.cpp" alt="" coords="3382,191,3593,233"/>
+<area shape="rect" id="node24" href="$SPIRVCanonicalization_8cpp.html" title="lib/Dialect/SPIRV/IR\l/SPIRVCanonicalization.cpp" alt="" coords="3616,191,3815,233"/>
+<area shape="rect" id="node25" href="$SPIRVDialect_8cpp.html" title="lib/Dialect/SPIRV/IR\l/SPIRVDialect.cpp" alt="" coords="3839,191,3986,233"/>
+<area shape="rect" id="node26" href="$SPIRVGLSLCanonicalization_8cpp.html" title="lib/Dialect/SPIRV/IR\l/SPIRVGLSLCanonicalization.cpp" alt="" coords="4011,191,4241,233"/>
+<area shape="rect" id="node28" href="$DecorateCompositeTypeLayoutPass_8cpp.html" title="lib/Dialect/SPIRV/Transforms\l/DecorateCompositeTypeLayoutPass.cpp" alt="" coords="4266,191,4551,233"/>
+<area shape="rect" id="node29" href="$LowerABIAttributesPass_8cpp.html" title="lib/Dialect/SPIRV/Transforms\l/LowerABIAttributesPass.cpp" alt="" coords="4576,191,4783,233"/>
+<area shape="rect" id="node30" href="$RewriteInsertsPass_8cpp.html" title="lib/Dialect/SPIRV/Transforms\l/RewriteInsertsPass.cpp" alt="" coords="4807,191,5013,233"/>
+<area shape="rect" id="node31" href="$SPIRVConversion_8cpp.html" title="lib/Dialect/SPIRV/Transforms\l/SPIRVConversion.cpp" alt="" coords="5037,191,5242,233"/>
+<area shape="rect" id="node32" href="$UpdateVCEPass_8cpp.html" title="lib/Dialect/SPIRV/Transforms\l/UpdateVCEPass.cpp" alt="" coords="5266,191,5471,233"/>
+<area shape="rect" id="node33" href="$LayoutUtils_8cpp.html" title="lib/Dialect/SPIRV/Utils\l/LayoutUtils.cpp" alt="" coords="5495,191,5658,233"/>
+<area shape="rect" id="node34" href="$Serializer_8h.html" title="lib/Target/SPIRV/Serialization\l/Serializer.h" alt="" coords="1213,191,1421,233"/>
+<area shape="rect" id="node4" href="$ModuleCombiner_8h.html" title="include/mlir/Dialect\l/SPIRV/Linking/ModuleCombiner.h" alt="" coords="605,288,844,329"/>
+<area shape="rect" id="node7" href="$Deserialization_8cpp.html" title="lib/Target/SPIRV/Deserialization\l/Deserialization.cpp" alt="" coords="255,377,480,419"/>
+<area shape="rect" id="node12" href="$SerializeOps_8cpp.html" title="lib/Target/SPIRV/Serialization\l/SerializeOps.cpp" alt="" coords="1362,288,1570,329"/>
+<area shape="rect" id="node13" href="$Serializer_8cpp.html" title="lib/Target/SPIRV/Serialization\l/Serializer.cpp" alt="" coords="1594,288,1802,329"/>
+<area shape="rect" id="node14" href="$SPIRVBinaryUtils_8cpp.html" title="lib/Target/SPIRV/SPIRVBinary\lUtils.cpp" alt="" coords="1131,288,1337,329"/>
+<area shape="rect" id="node35" href="$Serialization_8cpp.html" title="lib/Target/SPIRV/Serialization\l/Serialization.cpp" alt="" coords="1826,288,2034,329"/>
+</map>

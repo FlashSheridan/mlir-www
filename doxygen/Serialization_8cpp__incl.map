@@ -1,0 +1,31 @@
+<map id="lib/Target/SPIRV/Serialization/Serialization.cpp" name="lib/Target/SPIRV/Serialization/Serialization.cpp">
+<area shape="rect" id="node2" href="$Serializer_8h.html" title="Serializer.h" alt="" coords="938,95,1033,121"/>
+<area shape="rect" id="node46" href="$Serialization_8h.html" title="mlir/Target/SPIRV/Serialization.h" alt="" coords="679,95,910,121"/>
+<area shape="rect" id="node47" href="$SPIRVAttributes_8h.html" title="mlir/Dialect/SPIRV\l/IR/SPIRVAttributes.h" alt="" coords="525,437,680,479"/>
+<area shape="rect" id="node3" href="$SPIRVOps_8h.html" title="mlir/Dialect/SPIRV\l/IR/SPIRVOps.h" alt="" coords="1944,169,2083,211"/>
+<area shape="rect" id="node43" href="$IR_2Builders_8h.html" title="mlir/IR/Builders.h" alt="" coords="2415,177,2550,203"/>
+<area shape="rect" id="node4" href="$SPIRVOpTraits_8h.html" title="mlir/Dialect/SPIRV\l/IR/SPIRVOpTraits.h" alt="" coords="2225,437,2370,479"/>
+<area shape="rect" id="node18" href="$SPIRVTypes_8h.html" title="mlir/Dialect/SPIRV\l/IR/SPIRVTypes.h" alt="" coords="924,527,1063,568"/>
+<area shape="rect" id="node27" href="$BuiltinOps_8h.html" title="mlir/IR/BuiltinOps.h" alt="" coords="1697,266,1845,293"/>
+<area shape="rect" id="node36" href="$SideEffectInterfaces_8h.html" title="mlir/Interfaces/SideEffect\lInterfaces.h" alt="" coords="2005,348,2192,389"/>
+<area shape="rect" id="node39" href="$ControlFlowInterfaces_8h.html" title="mlir/Interfaces/ControlFlow\lInterfaces.h" alt="" coords="2359,259,2558,300"/>
+<area shape="rect" id="node5" href="$OpDefinition_8h.html" title="mlir/IR/OpDefinition.h" alt="" coords="1687,534,1849,561"/>
+<area shape="rect" id="node6" href="$IR_2Dialect_8h.html" title="mlir/IR/Dialect.h" alt="" coords="1838,623,1965,650"/>
+<area shape="rect" id="node7" href="$Operation_8h.html" title="mlir/IR/Operation.h" alt="" coords="1054,623,1199,650"/>
+<area shape="rect" id="node8" href="$IR_2BuiltinAttributes_8h.html" title="mlir/IR/BuiltinAttributes.h" alt="" coords="713,705,900,732"/>
+<area shape="rect" id="node15" href="$IR_2Diagnostics_8h.html" title="mlir/IR/Diagnostics.h" alt="" coords="1092,705,1249,732"/>
+<area shape="rect" id="node9" href="$Attributes_8h.html" title="mlir/IR/Attributes.h" alt="" coords="1501,855,1646,881"/>
+<area shape="rect" id="node16" href="$Location_8h.html" title="mlir/IR/Location.h" alt="" coords="1103,780,1239,807"/>
+<area shape="rect" id="node19" href="$SPIRVEnums_8h.html" title="mlir/Dialect/SPIRV\l/IR/SPIRVEnums.h" alt="" coords="711,616,849,657"/>
+<area shape="rect" id="node23" href="$IR_2BuiltinTypes_8h.html" title="mlir/IR/BuiltinTypes.h" alt="" coords="1376,623,1536,650"/>
+<area shape="rect" id="node24" href="$Types_8h.html" title="mlir/IR/Types.h" alt="" coords="1343,705,1462,732"/>
+<area shape="rect" id="node25" href="$TypeSupport_8h.html" title="mlir/IR/TypeSupport.h" alt="" coords="1263,780,1425,807"/>
+<area shape="rect" id="node20" href="$LLVM_8h.html" title="mlir/Support/LLVM.h" alt="" coords="222,705,373,732"/>
+<area shape="rect" id="node28" href="$FunctionSupport_8h.html" title="mlir/IR/FunctionSupport.h" alt="" coords="1215,445,1401,471"/>
+<area shape="rect" id="node29" href="$OwningOpRef_8h.html" title="mlir/IR/OwningOpRef.h" alt="" coords="1245,355,1413,382"/>
+<area shape="rect" id="node30" href="$RegionKindInterface_8h.html" title="mlir/IR/RegionKindInterface.h" alt="" coords="1475,445,1687,471"/>
+<area shape="rect" id="node31" href="$SymbolTable_8h.html" title="mlir/IR/SymbolTable.h" alt="" coords="1027,445,1191,471"/>
+<area shape="rect" id="node33" href="$CallInterfaces_8h.html" title="mlir/Interfaces/CallInterfaces.h" alt="" coords="998,355,1221,382"/>
+<area shape="rect" id="node34" href="$CastInterfaces_8h.html" title="mlir/Interfaces/CastInterfaces.h" alt="" coords="1712,445,1939,471"/>
+<area shape="rect" id="node35" href="$DataLayoutInterfaces_8h.html" title="mlir/Interfaces/DataLayout\lInterfaces.h" alt="" coords="1683,348,1879,389"/>
+</map>
